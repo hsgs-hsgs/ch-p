@@ -1,0 +1,5 @@
+hub myHub
+shortLabel My Hub
+longLabel This is a custom track hub
+genomesFile genomes.txt
+email your_email@example.com

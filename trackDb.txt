@@ -1,0 +1,8 @@
+track replicate1_summits
+type bed 3
+shortLabel Replicate 1 Summits
+longLabel Peaks from replicate 1
+visibility dense
+itemRgb On
+priority 1
+bigDataUrl replicate1_summits.bed
